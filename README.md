@@ -1,4 +1,5 @@
-# uas - pemrogramanmobile
+# project pemrogramanmobile
+
 ## 📱 APLIKASI CATATAN HARIAN
 **Tugas Pemrograman Mobile**
 
