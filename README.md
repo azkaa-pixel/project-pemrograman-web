@@ -3,9 +3,9 @@
 ## 📱 APLIKASI CATATAN HARIAN
 **Tugas Pemrograman Mobile**
 
-**Nama:** [Nama Kamu]  
-**NIM:** [NIM Kamu]  
-**Kelas:** [Kelas Kamu]  
+**Nama:** ghefira azka fardani   
+**NIM:** 312410521 
+**Kelas:** I241E  
 
 ---
 
